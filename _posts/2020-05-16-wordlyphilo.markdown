@@ -6,7 +6,7 @@ description: The Worldly Philosophers blog post with comments
 comments: true
 ---
 
-Book review. The worldly philosophers by Robert L Heilbroner.
+This is a Book review. The worldly philosophers by Robert L Heilbroner.
 
 If memory serves me well, I learn about The wordily philosophers, form Cristof Koch.
 Recently, I read a reference about the book that prompt me tor read it. It was Robert Lucas or some other laissez fair economist in a book that contains the autobiographic account f some of the most important economist, all of them awarded with the Bank of Sweden version of the Nobel prize. There Lucas made the statement that he found no interest in Heilbroner's book because he though it was nothing to do with economics. He had no time for political scientist, which is how economist where called before the mathematization of math led by Robert Samuelson that started in the later 40s and 50s of the past century.
