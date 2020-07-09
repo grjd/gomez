@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Better relevant than right
-date: 2020-04-02 11:59:00-0400
+date: 2020-04-02 15:59:00 Z
+layout: post
 description: an example of a blog post with comments
-comments: false  
+comments: false
 ---
 
 George Box famously put it "All models are wrong some are useful", but he forgot to mention that others are harmful. The covid epidemic gives us insight about what this is so.

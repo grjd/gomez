@@ -1,9 +1,8 @@
 ---
-layout: page
 title: The Brain
-description: Brain Science 
-img: /assets/img/brain2536-942.png
-
+layout: page
+description: Brain Science
+img: "/assets/img/brain2536-942.png"
 ---
 
 Brain Science, understood as the set of tools, models and theories(alas alas ) to come to terms with Cognition and Healthy Aging.

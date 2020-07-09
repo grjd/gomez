@@ -1,9 +1,10 @@
 ---
-layout: page
 title: projects
-permalink: /projects/
+permalink: "/projects/"
+layout: page
 description: AI - Brain - Epistemology - Resilience
 ---
+
 My research interests pivot around three axis: __AI__, the __Brain__, __Epistemology__ and __Resilience__. The central theme is naturally __Epistemology__ or _What do we know_. _How do we know_ is where Brain science comes in, the __Brain__ as the receptacle but also generator of knowledge. And finally, resilience, or __How to build systems that endure__.
 There are also transversal themes that go along and across these three dimensions such as _Causality_ or _Consciousness (subjective experience)_.
 
