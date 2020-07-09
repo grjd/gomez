@@ -1,7 +1,7 @@
 ---
-layout: post
 title: The Worldly Philosophers
-date: 2020-05-16 18:59:00-0400
+date: 2020-05-16 22:59:00 Z
+layout: post
 description: The Worldly Philosophers blog post with comments
 comments: true
 ---

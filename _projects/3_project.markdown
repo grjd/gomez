@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Resilience
+layout: page
 description: Building systems that yield and endure
-img:  /assets/img/Resilience-graph.png
-
+img: "/assets/img/Resilience-graph.png"
 ---
 
 Resiliency in Biological and Natural Systems

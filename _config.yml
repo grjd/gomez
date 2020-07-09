@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -65,64 +66,93 @@ enable_katex:       true
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
+=======
+---
+title: Gomez
+timezone: UTC
+>>>>>>> ddb166c6c893392d22e71710923df6b12f0dd0b5
 collections:
   news:
+    title: News
+    output: true
+    permalink: "/news/:path/"
     defaults:
       layout: post
+  posts:
+    title: Posts
     output: true
-    permalink: /news/:path/
   projects:
+    title: Projects
     output: true
-    permalink: /projects/:path/
+    permalink: "/projects/:path/"
+  uploads:
+    title: Uploads
+    output: true
+name: Jaime Gomez-Ramirez
+email: jd.gomezramirez@gmail.com
+description: 'Personal website Complexity Scientist in the era of Social Distancing.
 
+'
+footer_text: ''
+url: grjd.github.io
+baseurl: 
+last_updated: 
+serve_og_meta: false
+og_image: 
+github_username: grjd
+twitter_username: gomezramirez_ac
+linkedin_username: 
+scholar_userid: 
+orcid_id: 
+medium_username: 
+quora_username: 
+publons_id: 
+research_gate_profile: 
+blogger_url: 
+contact_note: 'Please drop me a line if you feel like.
+
+'
+google_analytics: UA-XXXXXXXXX
+blog_name: Ars longa, vita brevis
+blog_description: Notes on the History Ideas for the Complex Uncertain Future.
+paginate: 4
+permalink: "/blog/:year/:title/"
+paginate_path: "/blog/page:num/"
+text:
+  pagination:
+    newer: Newer
+    older: Older
+disqus_shortname: al-folio
+show_social_icons: false
+enable_anchorjs: false
+enable_katex: true
 news_limit: 5
-
-# -----------------------------------------------------------------------------
-# Jekyll settings
-# -----------------------------------------------------------------------------
-
-# Build settings
 markdown: kramdown
 highlighter: pygments
-
-# Includes & excludes
-include: ['_pages']
-exclude: [vendor]
-
-# Plug-ins
+include:
+- _pages
+exclude:
+- vendor
 plugins:
-    - jekyll-email-protect
-    - jekyll-paginate
-    - jekyll/scholar
-    - jemoji
-
-# Jekyll-Scholar
+- jekyll-email-protect
+- jekyll-paginate
+- jekyll/scholar
+- jemoji
 scholar:
-
   last_name: Gomez-Ramirez
-
   style: apa
   locale: en
-
   sort_by: year
   order: descending
-
-  source: /_bibliography/
+  source: "/_bibliography/"
   bibliography: papers.bib
   bibliography_template: bib
-
   replace_strings: true
   join_strings: true
-
   details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
-
   query: "@*"
-
-# -----------------------------------------------------------------------------
-# Other settings
-# -----------------------------------------------------------------------------
-jquery_version: "1.12.4"
-katex_version: "0.9.0"
-anchorjs_version: "3.2.2"
+jquery_version: 1.12.4
+katex_version: 0.9.0
+anchorjs_version: 3.2.2

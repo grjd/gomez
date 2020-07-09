@@ -1,18 +1,13 @@
 ---
+title: "<strong>Jaime</strong> Gomez-Ramirez"
+permalink: "/"
 layout: about
-permalink: /
-title: <strong>Jaime</strong> Gomez-Ramirez
-description: <a href="">Research Scientist</a>. AI based solutions applied to Health Care.
-
-
+description: <a href="">Research Scientist</a>. AI based solutions applied to Health
+  Care.
 profile:
   align: right
-  image: prof_pic2.jpg 
-  address: >
-    <p> </p>
-    <p> </p>
-    <p> </p>
-
+  image: prof_pic2.jpg
+  address: "<p> </p> <p> </p> <p> </p>\n"
 news: true
 social: true
 ---

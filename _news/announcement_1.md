@@ -1,6 +1,7 @@
 ---
+title: Announcement_1
+date: 2020-03-25 19:59:00 Z
 layout: post
-date: 2020-03-25 15:59:00-0400
 inline: true
 ---
 
